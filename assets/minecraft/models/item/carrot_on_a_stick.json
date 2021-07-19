@@ -1,0 +1,35 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "item/carrot_on_a_stick"
+  },
+
+  "overrides": [
+    {
+      "predicate": { "custom_model_data": 132121 },
+      "model": "item/yellow_wand"
+    },
+    { "predicate": { "custom_model_data": 323456 }, "model": "item/firestaff" },
+    {
+      "predicate": { "custom_model_data": 395935 },
+      "model": "item/purple_wand"
+    },
+    {
+      "predicate": { "custom_model_data": 474565 },
+      "model": "item/red_wand"
+    },
+    {
+      "predicate": { "custom_model_data": 474717 },
+      "model": "item/gray_wand"
+    },
+    {
+      "predicate": { "custom_model_data": 858432 },
+      "model": "item/green_wand"
+    },
+    {
+      "predicate": { "custom_model_data": 892746 },
+      "model": "item/blue_wand"
+    },
+    { "predicate": { "custom_model_data": 987654 }, "model": "item/icestaff" }
+  ]
+}
