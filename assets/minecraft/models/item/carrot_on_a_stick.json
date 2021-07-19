@@ -30,6 +30,7 @@
       "predicate": { "custom_model_data": 892746 },
       "model": "item/blue_wand"
     },
-    { "predicate": { "custom_model_data": 987654 }, "model": "item/icestaff" }
-  ]
+    { "predicate": { "custom_model_data": 987654 }, "model": "item/icestaff" },
+    { "predicate": { "custom_model_data": 998877 }, "model": "item/endwand" }
+    ]
 }
